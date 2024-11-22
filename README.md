@@ -1,7 +1,10 @@
 # PRS Absolute Risk Calculator
 
-This tool converts Polygenic Risk Score (PRS) Z-scores into absolute risk estimates, accounting for disease prevalence and PRS predictive power. It offers multiple methods for incorporating PRS predictive power and provides confidence intervals for risk estimates.
+This tool converts Polygenic Risk Score (PRS) Z-scores into absolute risk estimates, accounting for disease prevalence and PRS predictive power. It offers multiple methods for incorporating PRS predictive power and provides confidence intervals for risk estimates. It is similar but different from the methodology employed below:
+[
+](https://opain.github.io/GenoPred/Absolute_Conversion.html)
 
+Note the code is more pseudocode currently and has never been tested but conveys overall idea. 
 ## Table of Contents
 - [Background](#background)
 - [Mathematical Framework](#mathematical-framework)
